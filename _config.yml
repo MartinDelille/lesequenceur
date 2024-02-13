@@ -1,0 +1,19 @@
+title: "Le Séquenceur"
+description: "TODO"
+lang: fr
+
+liquid:
+  error_mode: strict
+
+kramdown:
+  show_warnings: true
+
+exclude:
+  - Makefile
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-tidy
+  - jekyll-redirect-from
+
