@@ -1,3 +1,6 @@
-## Todo
+## How to build the project
 
-Add how to
+```
+bundle install
+bundle exec jekyll serve --livereload
+```
