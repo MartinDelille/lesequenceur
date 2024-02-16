@@ -6,11 +6,6 @@
 }
 
 .container {
-    img {
-        width: 200px;
-        height: auto;
-    }
-
     h1 {
         text-align: center;
     }
@@ -21,6 +16,15 @@
         font-family: 'Inter', sans-serif;
         text-align: justify;
         padding-bottom: 30px;
+
+        .logo-container {
+            display: flex;
+            justify-content: center;
+            img {
+                width: 200px;
+                height: auto;
+            }
+        }
 
         .button-container {
             display: flex;
