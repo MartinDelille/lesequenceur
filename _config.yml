@@ -10,6 +10,7 @@ kramdown:
 
 exclude:
   - Makefile
+  - selection.json
 
 plugins:
   - jekyll-seo-tag
