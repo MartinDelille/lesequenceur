@@ -1,3 +1,7 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
 .container {
   display: flex;
   justify-content: center;
@@ -22,10 +26,9 @@ h2 {
 section {
   margin: 1rem 0;
   width: 100%;
-  font-family: 'Inter', sans-serif;
   color: #333;
   text-align: justify;
-  padding: 30px 0;
+  padding: 45px 0;
 }
 
 .logo-container {
@@ -40,19 +43,19 @@ section {
 .button-container {
   display: flex;
   justify-content: center;
+}
 
-  .button {
-    background-color: #333;
-    border: none;
-    color: #fff;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-  }
+.button {
+  background-color: #333;
+  border: none;
+  color: #fff;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 
 header,
@@ -74,22 +77,38 @@ footer {
   bottom: 0;
 }
 
-.banner-logo-container {
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
   display: flex;
   justify-content: center;
-  a img {
-    width: 300px;
-    height: auto;
+  align-items: center;
+
+  li {
+    margin: 0 15px;
+
+    a {
+      text-decoration: none;
+      color: white;
+
+      img {
+        width: 300px;
+        height: auto;
+      }
+    }
   }
 }
 
 .social-media-links {
   font-size: 24px;
+
   a {
     margin: 0 15px;
     color: white;
     text-decoration: none;
   }
+
   a:hover {
     color: #ddd;
   }

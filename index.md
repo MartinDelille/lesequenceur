@@ -1,6 +1,6 @@
 ---
-layout: home
 title: Le Séquenceur
+layout: home
 ---
 
 ## Le Séquenceur c’est quoi ?
