@@ -1,0 +1,23 @@
+{
+  "name": "lesequenceur",
+  "version": "1.0.0",
+  "description": "Le site du Séquenceur",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write '**/*.{html,liquid,scss}'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesequenceur/lesequenceur.github.io.git"
+  },
+  "author": "Martin Delille",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lesequenceur/lesequenceur.github.io/issues"
+  },
+  "homepage": "https://github.com/lesequenceur/lesequenceur.github.io#readme",
+  "devDependencies": {
+    "@shopify/prettier-plugin-liquid": "^1.4.4",
+    "prettier": "^3.2.5"
+  }
+}

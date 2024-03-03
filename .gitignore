@@ -7,3 +7,4 @@ _site/
 vendor/
 Makefile
 *.aichat
+node_modules/
