@@ -169,3 +169,20 @@ nav ul {
   width: 1em;
   height: 1em;
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+
+  input,
+  textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+
+  input,
+  textarea {
+    font-size: 16px;
+  }
+}
