@@ -7,7 +7,7 @@ Les activités de l'association s'articulent autour de plusieurs projets:
 
 ## Les Ateliers de Fabrication Do It With Others (DIWO)
 
-En partenariat avec [l'IFTEC](https://www.iftec.fr/){:target="_blank"}, nous organisons une fois par mois un atelier de fabrication de module Eurorack et de pédale d'effet. Si nous proposons des kits, les participant·e·s peuvent également apporter leur propre kit.
+En partenariat avec [l'IFTEC](https://www.iftec.fr/), nous organisons une fois par mois un atelier de fabrication de module Eurorack et de pédale d'effet. Si nous proposons des kits, les participant·e·s peuvent également apporter leur propre kit.
 
 ## Les Workflows
 
