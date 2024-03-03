@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'icomoon';
+  font-family: icomoon;
   src:  url('fonts/icomoon.eot?fpt5ez');
   src:  url('fonts/icomoon.eot?fpt5ez#iefix') format('embedded-opentype'),
     url('fonts/icomoon.ttf?fpt5ez') format('truetype'),
@@ -12,7 +12,7 @@
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: icomoon !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -25,12 +25,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-facebook:before {
+.icon-facebook::before {
   content: "\ea90";
 }
-.icon-youtube:before {
+
+.icon-youtube::before {
   content: "\ea9d";
 }
-.icon-instagram:before {
+
+.icon-instagram::before {
   content: "\ea92";
 }
