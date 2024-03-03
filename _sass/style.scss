@@ -73,11 +73,6 @@ section {
 .logo-container {
     display: flex;
     justify-content: center;
-
-    img {
-        width: 300px;
-        height: auto;
-    }
 }
 
 .button-container {
@@ -147,11 +142,6 @@ nav ul {
 
             &:visited {
                 color: white;
-            }
-
-            img {
-                width: 300px;
-                height: auto;
             }
         }
     }
