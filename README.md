@@ -5,6 +5,6 @@ bundle install
 bundle exec jekyll serve --livereload
 ```
 
-## Fonts generation
+## Icons generation
 
-I use [IcoMoon App](https://icomoon.io/app) to generate the fonts.
+I use [IcoMoon App](https://icomoon.io/app) to generate the SVG icons.
