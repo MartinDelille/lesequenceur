@@ -1,144 +1,170 @@
 body {
-  font-family: 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
 }
 
 .container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 @media (min-width: 600px) {
-  .container section {
-    width: 600px;
-  }
+    .container section {
+        width: 600px;
+    }
 }
 
 h1 {
-  text-transform: uppercase;
+    font-size: 2em;
+    border-bottom: 2px solid #000;
+    padding-bottom: 0.3em;
+    margin-bottom: 1em;
+}
+
+h2 {
+    font-size: 1.5em;
+    border-bottom: 1px solid #000;
+    padding-bottom: 0.2em;
+    margin-bottom: 0.8em;
 }
 
 a {
-  color: darkgrey;
-  text-decoration: none;
-  font-weight: bold;
+    color: #555;
+    text-decoration: none;
+    font-weight: bold;
 
-  &:hover {
-    color: #333;
-  }
+    &:hover {
+        color: #777;
+        text-decoration: underline;
+    }
 
-  &:active {
-    color: #777;
-  }
+    &:active {
+        color: #777;
+    }
 
-  &:visited {
-    color: #333;
-  }
+    &:visited {
+        color: #555;
+    }
+}
+
+.collection {
+    a {
+        text-decoration: none;
+        color: inherit;
+        font-weight: inherit;
+
+
+        &:hover {
+            color: #777;
+            text-decoration: none;
+        }
+    }
 }
 
 section {
-  margin: 1rem 0;
-  width: 100%;
-  color: #333;
-  text-align: justify;
-  padding: 45px 0;
+    margin: 1rem 0;
+    width: 100%;
+    color: #333;
+    text-align: justify;
+    padding: 45px 0;
 }
 
 .logo-container {
-  display: flex;
-  justify-content: center;
-  img {
-    width: 200px;
-    height: auto;
-  }
+    display: flex;
+    justify-content: center;
+    img {
+        width: 200px;
+        height: auto;
+    }
 }
 
 .button-container {
-  display: flex;
-  justify-content: center;
+    display: flex;
+    justify-content: center;
 }
 
 .button {
-  background-color: #333;
-  border: none;
-  color: #fff;
-  padding: 15px 32px;
-  text-align: center;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
+    background-color: #333;
+    border: none;
+    color: #fff;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
 
 a.button {
-  &:active {
-    color: white;
-  }
+    &:active {
+        color: white;
+    }
 
-  &:visited {
-    color: white;
-  }
+    &:visited {
+        color: white;
+    }
 }
 
 header,
 footer {
-  position: fixed;
-  left: 0;
-  width: 100%;
-  background-color: #333;
-  color: white;
-  text-align: center;
-  padding: 10px;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
 
 header {
-  top: 0;
+    top: 0;
 }
 
 footer {
-  bottom: 0;
+    bottom: 0;
 }
 
 nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
-  li {
-    margin: 0 15px;
+    li {
+        margin: 0 15px;
 
-    a {
-      color: white;
+        a {
+            color: white;
+            text-decoration: none;
 
-      &:active {
-        color: white;
-      }
+            &:active {
+                color: white;
+            }
 
-      &:visited {
-        color: white;
-      }
+            &:visited {
+                color: white;
+            }
 
-      img {
-        width: 300px;
-        height: auto;
-      }
+            img {
+                width: 300px;
+                height: auto;
+            }
+        }
     }
-  }
 }
 
 .social-media-links {
-  font-size: 24px;
+    font-size: 24px;
 
-  a {
-    margin: 0 15px;
-    color: white;
-  }
+    a {
+        margin: 0 15px;
+        color: white;
+    }
 
-  a:hover {
-    color: #ddd;
-  }
+    a:hover {
+        color: #ddd;
+    }
 }

@@ -13,10 +13,14 @@ exclude:
   - selection.json
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  - jekyll-feed
   - jekyll-tidy
   - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+permalink: "/:year/:month/:day/:title/"
+future: true
 
 collections:
   projects:

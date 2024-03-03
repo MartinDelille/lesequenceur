@@ -1,0 +1,12 @@
+---
+layout: page
+---
+
+<h2>{{ page.date | french_date }}</h2>
+
+
+{{ content }}
+
+{% if page.helloasso %}
+    <a class="button" href="{{ page.helloasso }}">S'inscrire</a>
+{% endif %}

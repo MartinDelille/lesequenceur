@@ -1,0 +1,16 @@
+---
+title: Calendrier
+layout: page
+---
+
+<div class="collection">
+    {% for event in site.posts %}
+        <a class="calendar-link" href="{{ event.url }}">
+            <div>
+                <h2>{{ event.title }}</h2>
+                <p>{{ event.date | date_to_string }} - {{ event.location }}</p>
+                <p>{{ event.content | strip_html | truncatewords: 50 }}</p>
+            </div>
+        </a>
+    {% endfor %}
+</div>
