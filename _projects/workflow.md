@@ -1,19 +1,28 @@
 ---
 title: Les Workflows
-description: Un.e artiste partage sa pratique et son processus de création.
+description: Transmission collective
 layout: page
 ---
 
-Au final, ça consiste en quoi la création sonore numérique ?
+Le tout premier Workflow, format phare du Séquenceur, a lieu en 2018. Depuis, plus de
+20 occurrences ont eu lieu sur l’agglomération lyonnaise et en festivals.
 
-C’est en partant de cette question et de nombreux ateliers/débats/animations que nous nous sommes rappelés cette notion fondamentale : Il existe une imensité de façon de faire de créer de la musique avec les outils électroniques et numériques.
+## Principe
 
-La meilleure façon de comprendre ce que c’est, serait de demander aux personnes qui en font ce qu’ils et elles font.
+Les Workflows sont des ateliers consistant à inviter un.e artiste à présenter sa **démarche artistique** et ses outils favoris, dans un esprit de **partage** et un mélange entre théorie et pratique. Ces rencontres peuvent être pensées pour précéder un concert de l'artiste invité.e, encourageant ainsi le public à **intellectualiser** leur regard sur la performance par le prisme de ce qui leur aura été exposé, et à mêler ainsi écoute et **réflexion**.
 
-Et bien c’est ce que nous faisons durant les workflows : nous invitons des artistes electro qui nous présentent leur travail, leur approche, leurs techniques et astuces pour créer.
+## Objectifs
 
-Dans un format familial, nous passons par différents temps d’échange et de pratiques qui permettent aux participant.e.s de découvrir des univers musicaux ou technique.
+- **Initier** les artistes à l’exercice de la **transmission**
+- **Mettre en lumière** des artistes **locaux** talentueux et aux pratiques **innovantes**
+- **Proposer** au public de découvrir une pratique singulière, s’en nourrir et **échanger** autour de celle-ci
 
-Tout le monde est bienvenue dans ces événements, que vous soyez néophyte ou professionnelle les sujets nombreux abordés pourront vous captiver autant qu’ils nous passionnent.
+## Durée
 
-N’hésitez pas à consulter la liste de nos événements et venir à notre prochain workflow dès qu’il sera annoncé ! 🎉
+2 à 3 heures
+
+## Public
+
+10 à 20 participant.e.s
+
+Amateurs et professionnels curieux de découvrir des pratiques artistiques singulières
